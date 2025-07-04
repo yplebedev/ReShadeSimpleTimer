@@ -1,4 +1,7 @@
 # Timer
+
+![screenshot](https://github.com/user-attachments/assets/0fa78473-c463-40df-90d8-dbdacad76397)
+
 Do you hate launching separate apps for everything?
 
 Do you love simplicity?
